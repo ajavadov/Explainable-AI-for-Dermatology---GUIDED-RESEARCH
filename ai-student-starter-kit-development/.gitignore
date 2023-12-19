@@ -1,0 +1,5 @@
+*.png
+*.tar.gz
+*.pyc
+*.meta
+scripts/lightning_logs/

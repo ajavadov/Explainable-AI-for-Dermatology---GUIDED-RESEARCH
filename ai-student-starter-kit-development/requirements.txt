@@ -1,0 +1,11 @@
+numpy
+matplotlib
+scipy
+sklearn
+argparse
+
+torch
+pytorch_lightning
+torchvision
+torchsummary
+torchmetrics
