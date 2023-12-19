@@ -1,4 +1,4 @@
-*.png
+# *.png
 *.tar.gz
 *.pyc
 *.meta
